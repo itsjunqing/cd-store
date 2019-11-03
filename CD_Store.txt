@@ -1,0 +1,100 @@
+Gangnam Style,Psy,K Pop,8.28
+The Piano Guys Live,The Piano Guys,Classical,19.99
+Live on Earth,Cat Empire,Jazz,21.99
+The Wall,Pink Floyd,Rock,12.99
+Janis Joplin Greatest Hits,Janis Joplin,Rock,7.08
+Adele 21,Adele,Folk,21.99
+Legend,Bob Marley,Reggae,14.99
+Madness,Sleeping with Sirens,Punk,21.99
+Too Much Too Soon,New York Dolls,Punk,29.99
+London Calling,Clash,Punk,21.99
+Joyride,Transit,Punk,24.99
+Essential Peter Tosh,Peter Tosh,Reggae,14.99
+Fly Rasta,Ziggy Marley,Reggae,21.99
+Cure,Jah Cure,Reggae,21.99
+All I Need,Foxes,Pop,14.99
+Delirium,Ellie Goulding,Pop,21.99
+Big Love,Simple Red,Pop,21.99
+Singles,Savage Garden,Pop,29.99
+Bad,Michael Jackson,Pop,9.99
+Rebel Heart,Madonna,Pop,9.99
+The Veronicas,Veronicas,Pop,14.99
+Four,One Direction,Pop,21.99
+Only Human,Cheryl,Pop,21.99
+1989,Taylor Swift,Pop,21.99
+Things I've Done,Karise Eden,Pop,14.99
+5 Seconds of Summer,5 Seconds of Summer,Pop,24.99
+A.K.A.,Jennifer Lopez,Pop,21.99
+Amazing,Marcia Hines,Pop,21.99
+She's So Unusual,Cyndi Lauper,Pop,49.99
+Shakira,Shakira,Pop,21.99
+Helios,The Fray,Pop,21.99
+Virtuoso Encores,Leonidas Kavakos,Classical,26.99
+Miller-Heidke: The Rabbits,Opera Australia,Classical,24.99
+A Genius of the Cello,Paul Tortelier,Classical,34.99
+Capriccioso,Antonio Meneses,Classical,29.99
+L'enchanteur Tapez,Roberto Alagna,Classical,21.99
+Brahms: Piano Quartets,Domus,Classical,14.99
+Beethoven: Violin Sonatas 5 6 & 9,David Oistrakh,Classical,29.99
+Roots,Martin Frost,Classical,24.99
+Beethoven: Piano Trios,Seraphim Trio,Classical,24.99
+Soler: Sol de mi fortuna,Diego Ares,Classical,29.99
+Mozart: Piano Concertos Nos. 5 & 6,Ronald Brautigam,Classical,29.99
+Water,Helene Grimaud,Classical,29.99
+The Kiss,Nicole Car,Classical,21.99
+This Unruly Mess I've Made,Macklemore & Ryan Lewis,Hip Hop,19.99
+Drinking From The Sun,Hilltop Hoods,Hip Hop,9.99
+M83,Junk,Alternative,19.99
+WACO,Violet Soho,Alternative,19.99
+How Big How Blue How Beautiful,Florence & The Machine,Alternative,9.99
+Blurryface,Twenty One Pilots,Alternative,9.99
+Nevermind,Nirvana,Grunge,9.99
+Metal Resistance,Babymetal,Metal,19.99
+Sanatana IV,Sanatana,Rock,19.99
+Divinyls Greatest Hits,Divinyls,Rock,9.99
+Blondie Greatest Hits,Blondie,Rock,9.99
+Gore,Deftones,Rock,19.99
+Immortalized,Distrubed,Metal,14.99
+21 Number Ones,Kenny Rogers,Country,9.99
+The Essential Jonny Cash,Jonny Cash,Country,9.99
+Dancing on Water,Tania Kernaghan,Country,22.95
+The Captain,Kasey Chambers,Country,34.99
+Rules of the Road,Lee Karnaghan,Country,29.95
+The Wondering Kind,Neil Murray,Country,17.99
+Columbia Lane: The Last Sessions,Slim Dusty,Country,24.95
+Everyday Girl,Shea Fisher,Country,24.95
+Greatest Hits,Keith Urban,Country,32.95
+Heartbreaker,Ryan Adams,Country,29.95
+Small Town Misfits,Jenny Queen,Country,24.99
+Blues of Desperation,Joe Bonamassa,Blues,22.99
+His Definitive Greatest Hits,B.B. King,Blues,11.95
+Back to the River,Susan Tedeschi,Blues,14.99
+King of the Blues: The Best of Muddy Waters,Muddy Waters,Blues,11.95
+Miles Davis: Kind of Blue,Miles Davis,Jazz,16.95
+Ashes and Dust,Warren Haynes,Blues,19.99
+Live at the Old Waldorf,Michael Bloomfield,Blues,19.95
+Better Than Home,Beth Hart,Blues,19.99
+Slowtrane,John Coltrane,Jazz,19.99
+Milestones,Miles Davis,Jazz,14.99
+Doxy,Sonny Rollins,Jazz,19.99
+Trilogy,Nina Simone,Jazz,19.99
+Billie Holiday,Billie Holiday,Jazz,34.99
+It's Louis Armstrong,Louis Armstrong,Jazz,34.99
+Our Love is Here To Stay,Ella Fitzgerald,Jazz,11.99
+Six Flying Dragons OST,Kim Jun Su,K Pop,22.95
+The Very Best of Supertramp,Supertramp,Rock,12.99
+Long Road Out of Eden,Eagles,Rock,8.99
+Rattle and Hum,U2,Rock,12.99
+Post Pop Depression,Iggy Pop,Rock,14.95
+If I Can Dream Fast,Elvis Presley,Rock,12.95
+Abbey Road,The Beatles,Rock,16.99
+Written in Scars,Jack Savoretti,Folk,15.95
+Babel,Mumford & Sons,Folk,15.95
+X,Ed Sheeran,Folk,15.95
+Tracey Chapman,Tracey Chapman,Folk,15.95
+Bridge Over Trouble Waters,Simon & Garfunkel,Folk,15.99
+Tomorrow Is My Turn,Rhiannon Giddens,Folk,19.95
+One of Boys,Katie Perry,Pop,9.99
+Best of Bowie,David Bowie,Rock,10.00
+The Pretenders Greatest Hits,The Pretenders,Rock,10.00
+I'm Not Dead,Pink,Rock,10.00
